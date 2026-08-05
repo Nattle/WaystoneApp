@@ -1,0 +1,41 @@
+<p align="center">
+  <img src="assets/waystone.png" alt="A weathered waystone with a lantern" width="180">
+</p>
+
+<h1 align="center">Waystone</h1>
+
+<p align="center">
+  A tracker for keeping your Archipelago adventure close at hand.
+</p>
+
+Waystone is an Android companion for Archipelago players who would rather keep their tracker beside the game than behind another window. Import a compatible `PopTracker` pack, connect to your Archipelago room, and follow your maps, checks, items, and get `!hints`  from your phone.
+
+It is a small, independent project built by one developer. 
+
+## A look inside
+
+<p align="center">
+  <img src="assets/setup.png" alt="Waystone setup screen in the fantasy theme" width="30%">
+  <img src="assets/map.png" alt="A tracker map open in Waystone" width="30%">
+  <img src="assets/messages.png" alt="Archipelago party messages in Waystone" width="30%">
+</p>
+
+## Where things stand
+
+Waystone is in active development, with Android as its current home. It can import tracker pack ZIPs, connect directly to Archipelago (or a private server), and update the tracker from the room as you play.It uses PopTracker packs and has been tested with a small number of games. 
+
+## Issues and ideas
+
+This repository is the public home for the app, project information, and [issue tracking](https://github.com/Nattle/WaystoneApp/issues). 
+
+Bug reports are especially helpful when they include:
+
+- the game and tracker pack, with a link to the pack if possible
+- what you expected and what happened instead
+- If you think it's helpful, a screenshot or short set of steps that reproduces the problem
+
+Pack support requests and small feature ideas are welcome too, but keep in mind it's just me
+
+## Acknowledgements
+
+Waystone builds on the work of the [Archipelago](https://archipelago.gg/) community and the [PopTracker](https://github.com/black-sliver/PopTracker) pack ecosystem. 
