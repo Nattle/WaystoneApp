@@ -22,7 +22,14 @@ It is a small, independent project built by one developer.
 
 ## Where things stand
 
-Waystone is in active development, with Android as its current home. It can import tracker pack ZIPs, connect directly to Archipelago (or a private server), and update the tracker from the room as you play.It uses PopTracker packs and has been tested with a small number of games. 
+Waystone is in active development, with Android as its current home. It can import tracker pack ZIPs, connect directly to Archipelago (or a private server), and update the tracker from the room as you play.It uses PopTracker packs and has been tested with a small number of games.
+
+### Features
+- Imports PopTracker zip for maps and check information
+- Connects to archipelago.gg or private servers
+- Supports Lua scripting for pack logic
+- Built in text client for hints
+- Acquired items display
 
 ## Issues and ideas
 
