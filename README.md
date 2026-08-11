@@ -27,11 +27,11 @@ Waystone is in active development, with Android as its current home. It can load
 ### Features
 - Uses PopTracker ZIP packages for maps and check information
   - Download from github directly in the app
-  - Checks for and can apply updates inline
 - Connects to archipelago.gg or private servers
 - Full Lua script support for pack logic
 - Built in text client for hints
 - Acquired items display
+- Leaderboard of connected games (anonymous by game's pack name only)
 
 ## Issues and ideas
 
