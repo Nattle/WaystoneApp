@@ -12,6 +12,11 @@ Waystone is an Android companion for Archipelago players who would rather keep t
 
 It is a small, independent project built by one developer. 
 
+## Closed Beta : Android only
+
+1. Join https://groups.google.com/g/waystone-testing
+2. Follow links to download from Google Play (may take a couple minutes to activate)
+
 ## A look inside
 
 <p align="center">
