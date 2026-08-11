@@ -18,6 +18,7 @@ It is a small, independent project built by one developer.
   <img src="assets/setup.png" alt="Waystone setup screen in the fantasy theme" width="30%">
   <img src="assets/map.png" alt="A tracker map open in Waystone" width="30%">
   <img src="assets/messages.png" alt="Archipelago party messages in Waystone" width="30%">
+    <img src="assets/dark.png" alt="Archipelago party messages in Waystone" width="30%">
 </p>
 
 ## Where things stand
