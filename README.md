@@ -12,6 +12,13 @@ Waystone is an Android companion for Archipelago players who would rather keep t
 
 It is a small, independent project built by one developer. 
 
+#### Ethical AI disclosure:
+```
+The app concept, code architecture, and user experience design are entirely mine.
+Art will be 100% human made.
+AI is used to support integration and accelerate development.
+```
+
 ## Closed Beta : Android only
 
 1. Join https://groups.google.com/g/waystone-testing
@@ -38,8 +45,6 @@ Waystone is in active development, with Android as its current home. It can load
 - Built in text client for hints
 - Acquired items display
 - Leaderboard of connected games (anonymous by game's pack name only)
-
-## Issues and ideas
 
 This repository is the public home for the app, project information, and [issue tracking](https://github.com/Nattle/WaystoneApp/issues). 
 
