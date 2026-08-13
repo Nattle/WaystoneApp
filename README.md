@@ -24,6 +24,11 @@ AI is used to support integration and accelerate development.
 1. Join https://groups.google.com/g/waystone-testing
 2. Follow links to download from Google Play (may take a couple minutes to activate)
 
+## Want your pack listed?
+Fill out this form and I'll see what I can do:
+https://forms.gle/kNkeq6mDxD1khbyAA
+
+
 ## A look inside
 
 <p align="center">
