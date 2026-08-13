@@ -12,6 +12,9 @@ Waystone is an Android companion for Archipelago players who would rather keep t
 
 It is a small, independent project built by one developer. 
 
+### Links
+`Discord` Check out the Waystone thread in community tools on the Archipelago server. 
+
 #### Ethical AI disclosure:
 ```
 The app concept, code architecture, and user experience design are entirely mine.
@@ -19,10 +22,19 @@ Art will be 100% human made.
 AI is used to support integration and accelerate development.
 ```
 
-## Closed Beta : Android only
+## Closed Beta 
+Temporary testing paths until the app is approved for the production release on the app stores. 
 
+#### Android
 1. Join https://groups.google.com/g/waystone-testing
 2. Follow links to download from Google Play (may take a couple minutes to activate)
+
+Alternately, you can install the latest release APK from this site. Its the same content. 
+
+#### iOS
+> **NOTE** The initial version is in review, until it's released by Apple the join link will not work. It will activate automatically once the version is approved. 
+1. Install [Test Flight](https://apps.apple.com/us/app/testflight/id899247664) on your phone
+2. https://testflight.apple.com/join/hW9BzJfB
 
 ## Want your pack listed?
 Fill out this form and I'll see what I can do:
@@ -40,7 +52,7 @@ https://forms.gle/kNkeq6mDxD1khbyAA
 
 ## Where things stand
 
-Waystone is in active development, with Android as its current home. It can load tracker ZIPs, connect directly to Archipelago (or a private server), and update the tracker from the room as you play. It uses PopTracker packs and has been tested with a small number of games.
+Waystone is in active development, with Android making it's way to the public app store and iOS rolling out soon. It can load tracker ZIPs, connect directly to Archipelago (or a private server), and update the tracker from the room as you play. It uses PopTracker packs and has been tested with a small number of games.
 
 ### Features
 - Uses PopTracker ZIP packages for maps and check information
