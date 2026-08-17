@@ -32,7 +32,6 @@ Temporary testing paths until the app is approved for the production release on 
 Alternately, you can install the latest release APK from this site. Its the same content. 
 
 #### iOS
-> **NOTE** The initial version is in review, until it's released by Apple the join link will not work. It will activate automatically once the version is approved. 
 1. Install [Test Flight](https://apps.apple.com/us/app/testflight/id899247664) on your phone
 2. https://testflight.apple.com/join/hW9BzJfB
 
