@@ -22,6 +22,9 @@ Art will be 100% human made.
 AI is used to support integration and accelerate development.
 ```
 
+## Public Builds
+Android: https://play.google.com/store/apps/details?id=dev.nattle.waystone
+
 ## Closed Beta 
 Temporary testing paths until the app is approved for the production release on the app stores. 
 
